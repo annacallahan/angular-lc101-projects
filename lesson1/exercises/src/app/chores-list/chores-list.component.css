@@ -1,0 +1,14 @@
+.chores {
+    font: "Courier New";
+    font-size: 25px;
+    color: red;
+
+}
+
+h3 {
+  text-decoration: underline;  
+}
+
+li {
+    font-style: italic;
+}
